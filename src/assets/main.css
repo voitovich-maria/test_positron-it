@@ -1,0 +1,81 @@
+:root {
+  --black1F: #1F2432;
+  --black2C: #2C3242;
+  --gray79:  #797B86;
+  --gray90:  #90A2B5;
+  --grayAE:  #AEB0B6;
+  --grayC4:  #C4C4C4;
+  --blue00:  #0069B4;
+  --blueF6:  #F6F8FA;
+  --blueEE:  #EEF2F7;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Regular'), local('Lato-Regular'),
+    url('~@/assets/fonts/Lato/Lato-Regular.woff2') format('woff2'),
+    url('~@/assets/fonts/Lato/Lato-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Medium'), local('Lato-Medium'),
+    url('~@/assets/fonts/Lato/Lato-Medium.woff2') format('woff2'),
+    url('~@/assets/fonts/Lato/Lato-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Semibold'), local('Lato-Semibold'),
+    url('~@/assets/fonts/Lato/Lato-Semibold.woff2') format('woff2'),
+    url('~@/assets/fonts/Lato/Lato-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato Bold'), local('Lato-Bold'),
+    url('~@/assets/fonts/Lato/Lato-Bold.woff2') format('woff2'),
+    url('~@/assets/fonts/Lato/Lato-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto Regular'), local('Roboto-Regular'),
+    url('~@/assets/fonts/Roboto/Roboto-Regular.woff2') format('woff2'),
+    url('~@/assets/fonts/Roboto/Roboto-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+    url('~@/assets/fonts/Roboto/Roboto-Medium.woff2') format('woff2'),
+    url('~@/assets/fonts/Roboto/Roboto-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+    url('~@/assets/fonts/Roboto/Roboto-Bold.woff2') format('woff2'),
+    url('~@/assets/fonts/Roboto/Roboto-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
